@@ -1,0 +1,9 @@
+/.vscode
+/ConversationGrandma
+/inputs
+/TTS
+/tts_env
+output_*
+Startup.ps1
+Pipfile.lock
+Pipfile

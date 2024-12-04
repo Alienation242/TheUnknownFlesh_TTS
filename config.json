@@ -1,0 +1,15 @@
+{
+  "tts_model": "tts_models/multilingual/multi-dataset/xtts_v2",
+  "vocoder_model": "vocoder_models/en/ljspeech/hifigan_v2",
+  "sample_rate": 24000,
+  "output_file": "output.wav",
+  "output_path": "./audio",
+  "use_cuda": true,
+  "text_cleaner": "basic_cleaners",
+  "language": "de",
+  "noise_scale": 0.667,
+  "length_scale": 1.0,
+  "batch_size": 1,
+  "output_format": "wav",
+  "seed": null
+}
